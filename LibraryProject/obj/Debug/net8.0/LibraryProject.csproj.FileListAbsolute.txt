@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\bin\Debug\net8.0\LibraryProject.deps.json
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\bin\Debug\net8.0\LibraryProject.dll
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\bin\Debug\net8.0\LibraryProject.pdb
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\obj\Debug\net8.0\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\obj\Debug\net8.0\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\obj\Debug\net8.0\LibraryProject.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\obj\Debug\net8.0\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\obj\Debug\net8.0\LibraryProject.dll
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\obj\Debug\net8.0\refint\LibraryProject.dll
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\obj\Debug\net8.0\LibraryProject.pdb
+C:\Users\LENOVO\source\repos\SerrvicioApiCurso\LibraryProject\obj\Debug\net8.0\ref\LibraryProject.dll
